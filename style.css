@@ -1,0 +1,26 @@
+body{
+    padding: 100px;
+}
+.name{
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: aliceblue;
+    padding: 100px;
+   
+    border-radius: 10px;
+    
+}
+.section{
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px 10px gainsboro;
+    border-radius: 5px;
+    
+}
+.login{
+    text-align: left;
+    
+}
